@@ -17,4 +17,4 @@
 
 [Nolan's Github](https://github.com/nhatchell2026)
 
-![fiona-smallwood-rA2t29hZj1s-unsplash](https://github.com/user-attachments/assets/bdd29cb3-0411-4ee5-9fdc-00827c086b5b))
+![fiona-smallwood-rA2t29hZj1s-unsplash](https://github.com/user-attachments/assets/bdd29cb3-0411-4ee5-9fdc-00827c086b5b)
