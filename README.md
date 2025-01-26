@@ -12,7 +12,7 @@
 - First unordered list item
 - Second unordered list item
 
-'code'
+`code`
 ---
 
 [Nolan's Github](https://github.com/nhatchell2026)
