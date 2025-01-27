@@ -2,19 +2,20 @@
 ## Design 6 
 ### Written By Nolan H.M.
 
-**Bold** *italic*
+> "Whatever you think can’t be done, somebody will come along and do it. A genius is the one most like himself." ~ Thelonious Monk
 
-> Blockquote
+A few of my **academic*** interests include
+1. Embedded Systems
+2. Operating Systems
 
-1. First ordered list item
-2. Second ordered list item
+A few of my *personal* interests include
+- Jazz Music
+- Historically Black College and University(HBCU) Marching Band Covers
+- Chess 
 
-- First unordered list item
-- Second unordered list item
-
-`code`
+`rm -rf`
 ---
 
-[Nolan's Github](https://github.com/nhatchell2026)
+[Nolan's GitHub](https://github.com/nhatchell2026)
 
 ![fiona-smallwood-rA2t29hZj1s-unsplash](https://github.com/user-attachments/assets/bdd29cb3-0411-4ee5-9fdc-00827c086b5b)
