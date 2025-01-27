@@ -4,7 +4,7 @@
 
 > "Whatever you think can’t be done, somebody will come along and do it. A genius is the one most like himself." ~ Thelonious Monk
 
-A few of my **academic*** interests include
+A few of my **academic** interests include
 1. Embedded Systems
 2. Operating Systems
 
