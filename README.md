@@ -17,5 +17,6 @@ A few of my *personal* interests include
 ---
 
 [Nolan's GitHub](https://github.com/nhatchell2026)
+[Google Website](https://sites.google.com/stevens.edu/cpe322website?usp=sharing)
 
 ![fiona-smallwood-rA2t29hZj1s-unsplash](https://github.com/user-attachments/assets/bdd29cb3-0411-4ee5-9fdc-00827c086b5b)
